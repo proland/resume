@@ -17,7 +17,7 @@ I am a Junior Developer and Systems Engineer with an interest in distributed sys
 * Worked with distributed systems, messaging, Pylons MVC & more.
 * Worked on a distributed team across severl offices.
 
-### [Athabasca University - School of Computing & Information Systems](http://scis.athabascau.ca/), Edmonton Alberta
+### [Athabasca University](http://scis.athabascau.ca/), Edmonton Alberta
 
 #### NSERC-USGRA Software Developer - May 2010 To August 2010
 * Developed Adaptive eLearning platform for course delivery

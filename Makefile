@@ -6,7 +6,7 @@ all:	resume.html resume.pdf
 	git push origin master
 
 %.pdf:	%.md
-	markdown2pdf --template=resume-template.tex --xetex $<
+	wkhtmltopdf -O Portrait -s Letter -L 0 -R 0 --no-background resume.html resume.pdf
 	git commit -m "update pdf via makefile" $@ $< Makefile README.md
 	git push origin master
 

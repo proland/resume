@@ -8,7 +8,7 @@ I am a Junior Developer and Systems Engineer with an interest in distributed sys
 
 ## Experience
 
-### [Pason Systems][www.pason.com], Calgary Alberta
+### [Pason Systems](www.pason.com), Calgary Alberta
 
 #### Web Application Developer - May 2011 To December 2011
 * Worked on Sustaining and Mainline tasks in support of the DataHub Web Application.
@@ -17,7 +17,7 @@ I am a Junior Developer and Systems Engineer with an interest in distributed sys
 * Worked with distributed systems, messaging, Pylons MVC & more.
 * Worked on a distributed team across severl offices.
 
-### [Athabasca University - School of Computing & Information Systems][http://scis.athabascau.ca/], Edmonton Alberta
+### [Athabasca University - School of Computing & Information Systems](http://scis.athabascau.ca/), Edmonton Alberta
 
 #### NSERC-USGRA Software Developer - May 2010 To August 2010
 * Developed Adaptive eLearning platform for course delivery
@@ -25,7 +25,7 @@ I am a Junior Developer and Systems Engineer with an interest in distributed sys
 * Responsible for managing and documenting the project as well as maintaining development servers
 * Designed 3D Models in Blender for use in virtual environment
 
-### [Alberta Computers For Schools][http://www.cfsalberta.ca/], Edmonton Alberta
+### [Alberta Computers For Schools](http://www.cfsalberta.ca/), Edmonton Alberta
 
 #### Computer Repair Technician - May 2009 To August 2009
 * Received, Repaired, Tested and Shipped donated Computer Systems
@@ -38,14 +38,14 @@ I am a Junior Developer and Systems Engineer with an interest in distributed sys
 
 ## Volunteer Experience
 
-### [Engineering Students' Society][http://ess.ualberta.ca]
+### [Engineering Students' Society](http://ess.ualberta.ca)
 
 #### Vice President Student Services - April 2010 - April 2011
 * Responsible for all Events and Services offered by the ESS
 * Manage approx. 20 Associate VPs and Coordinators to complete job
 * Attend external events across Canada to work with other Engineering Schools
 
-### [Computer Engineering Club][http://www.ceclub.org]
+### [Computer Engineering Club](http://www.ceclub.org)
 
 #### President - Apr, 2009 - Apr, 2010
 * Responsible for day-to-day operations of the club
@@ -54,6 +54,6 @@ I am a Junior Developer and Systems Engineer with an interest in distributed sys
 
 ## Education
 
-### [University of Alberta][http://www.ualberta.ca]
+### [University of Alberta](http://www.ualberta.ca)
 
 #### Computer Engineering - Class of 2012

@@ -34,7 +34,7 @@ I am a Junior Developer and Systems Engineer with an interest in developing new 
 * Used Norton Ghost to deploy Windows Software
 * Updated Alberta CFS Website
 
-<div style="page-break-after: always;"><span style="display: none;">&nbsp;</span></div>
+&nbsp;<div style="page-break-after: always;"><span style="display: none;">&nbsp;</span></div>
 
 ## Skills
 

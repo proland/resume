@@ -1,7 +1,7 @@
 <table width='100%'>
   <tr>
     <td><h1>Peter Roland</h1></td>
-    <td align='right'><a href='mailto:pjhroland@gmail.ca'>pjhroland@gmail.ca</a></td>
+    <td align='right'><a href='mailto:hello@peterroland.com'>hello@peterroland.com</a></td>
   </tr>
 </table>
 

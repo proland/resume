@@ -5,7 +5,7 @@ all:	resume.html resume.pdf
 	git commit -m "update html via makefile" $@ $< Makefile README.md
 	git push origin master
 
-%.pdf:	%.md
+%.pdf:	%.md resume.css
 	wkhtmltopdf -O Portrait -s Letter -L 0 -R 0 --no-background resume.html resume.pdf
 	git commit -m "update pdf via makefile" $@ $< Makefile README.md
 	git push origin master

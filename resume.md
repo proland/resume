@@ -4,18 +4,18 @@ pjhroland@ualberta.ca
 
 ## Overview
 
-I am a Junior Developer and Systems Engineer with an interest in distributed systems and information management.
+I am a Junior Developer and Systems Engineer with an interest in developing new and exciting products and services.
 
 ## Experience
 
 ### [Pason Systems](www.pason.com), Calgary Alberta
 
 #### Web Application Developer - May 2011 To December 2011
-* Worked on Sustaining and Mainline tasks in support of the DataHub Web Application.
-* Worked predominantly in the Data, Business, and Infrastructure Domains.
+* Worked primarily on Sustaining and Mainline tasks in support of the DataHub Web Application.
+* Worked mostly in the Data, Business, and Infrastructure Domains.
 * Worked with modern Python and legacy C code.
-* Worked with distributed systems, messaging, Pylons MVC & more.
-* Worked on a distributed team across severl offices.
+* Dealt with distributed systems, messaging services, Pylons MVC & MySQL.
+* Worked on a distributed team across several offices.
 
 ### [Athabasca University](http://scis.athabascau.ca/), Edmonton Alberta
 
@@ -35,6 +35,16 @@ I am a Junior Developer and Systems Engineer with an interest in distributed sys
 ## Skills
 
 ### Languages
+
+Production experience in Python, C and Java. Some Lisp, Ruby, VHDL, HTML5, C++, bash.
+
+### Technologies
+
+Pylons MVC, IMQ, Google Web Toolkit, FPGA Integrated Systems, Cadence CAD Tools, Git, SVN.
+
+### Operating Systems
+
+Well versed in Linux/Unix programming principles. uC/OS-I & uC/OS-II integrated systems.
 
 ## Volunteer Experience
 

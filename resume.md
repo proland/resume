@@ -1,6 +1,6 @@
 # Peter Roland
 
-pjhroland@ualberta.ca
+pjhroland@gmail.ca
 
 ## Overview
 

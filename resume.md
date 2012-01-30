@@ -4,7 +4,6 @@
     <td align='right'><a href='mailto:hello@peterroland.com'>hello@peterroland.com</a></td>
   </tr>
 </table>
-
 ## Overview
 
 I am a Junior Developer and Systems Engineer with an interest in developing new and exciting products and services.
@@ -34,6 +33,8 @@ I am a Junior Developer and Systems Engineer with an interest in developing new 
 * Received, Repaired, Tested and Shipped donated Computer Systems
 * Used Norton Ghost to deploy Windows Software
 * Updated Alberta CFS Website
+
+<div class='break'></div>
 
 ## Skills
 

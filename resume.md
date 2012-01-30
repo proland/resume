@@ -1,6 +1,9 @@
-# Peter Roland
-
-pjhroland@gmail.ca
+<table>
+  <tr>
+    <td><h1>Peter Roland</h1></td>
+    <td><a href='mailto:pjhroland@gmail.ca'>pjhroland@gmail.ca</a></td>
+  </tr>
+</table>
 
 ## Overview
 

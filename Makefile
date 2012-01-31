@@ -1,13 +1,13 @@
-all:	resume.html resume.pdf
+all:	html pdf
 
-%.html:	%.md
-	pandoc -t html -o $@ $< -c resume.css
-	git commit -m "update html via makefile" $@ $< Makefile README.md
-	git push origin master
+html:	resume.md
+	pandoc -t html -o resume.html resume.md -c resume.css
 
-%.pdf:	%.md resume.css
+pdf:	resume.html resume.md resume.css
 	wkhtmltopdf -O Portrait -s Letter -L 0 -R 0 --no-background resume.html resume.pdf
-	git commit -m "update pdf via makefile" $@ $< Makefile README.md
+
+upload: html pdf
+	git commit -m "update via makefile" resume.css resume.pdf resume.html resume.md Makefile README.md
 	git push origin master
 
 clean:

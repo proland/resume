@@ -3,27 +3,111 @@ body {
     width: 7.5in;
     padding: .5in;
     padding-bottom: 0;
+    padding-top: 0;
     font-family: helvetica, Verdana, sans-serif;
     color: #2E2B00;
-    background: #FBFBFB;
+    background-color: #E8DDCB;
+    border-width: 1px;
+    border-color: #CDB380
 }
 
 * {
     clear: both;
 }
-a {
-    text-decoration: none;
-    color: #474519;
+
+pre,
+code {
+    font-family: 'DejaVu Sans Mono', Monaco, Consolas, monospace;
 }
 
-a:hover {
+hr {
+    border: 0 #CDB380 solid;
+    border-top-width: 2px;
+    clear: both;
+    height: 0;
+    width: 80%;
+}
+
+a {
+    color: #033649;;
     text-decoration: underline;
 }
 
+p {
+    align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+}
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+
+h1 {
+    font-size: 36px;
+    color: #031634;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+}
+
 h2 {
-    margin-top:0;
+    font-size: 36px;
+    color: #031634;
+    width: 100%;
+    border-bottom: 1px #CDB380 solid;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+}
+
+h3 {
+    font-size: 27px;
+    color: #033649;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+}
+
+h4 {
+    font-size: 19px;
+    color: #036564;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+}
+
+h5 {
+    font-size: 17px;
+}
+
+h6 {
+    font-size: 15px;
+}
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+
+ol {
+    list-style: decimal;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+}
+
+ul {
+    list-style: disc;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+}
+
+.blank {
+    list-style: none;
 }
 
 li {
-    margin-top: .2em;
+    margin-left: 30px;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+}
+
+.break {
+    page-break-before: always;
 }

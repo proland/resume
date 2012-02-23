@@ -6,7 +6,7 @@
 </table>
 ## Overview
 
-I am a Junior Developer and Systems Engineer with an interest in developing new and exciting products and services.
+I am a Junior Developer and Systems Engineer with an interest in working on new and exciting products and services that will impact the world.
 
 ## Experience
 
@@ -40,7 +40,7 @@ I am a Junior Developer and Systems Engineer with an interest in developing new 
 
 ### Languages
 
-Production experience in Python, C and Java. Some Lisp, Ruby, VHDL, HTML5, C++, bash.
+Production experience in Python, C and Java. Some experience with Lisp, Ruby, VHDL, HTML5, C++, bash.
 
 ### Technologies
 
